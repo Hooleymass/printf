@@ -1,9 +1,10 @@
 # `printf` Project
 ## Resources
-[Secrets of printf](https://intranet.alxswe.com/rltoken/7Vw7aUWgwC7JYUrqI4bh4Q)
-[Group Projects concept page ](https://intranet.alxswe.com/concepts/111)(Don’t forget to read this)
-[Flowcharts concept page](https://intranet.alxswe.com/concepts/130)
-[Pair Programming - How To](https://intranet.alxswe.com/concepts/121)
+- [Secrets of printf](https://intranet.alxswe.com/rltoken/7Vw7aUWgwC7JYUrqI4bh4Q)
+- [Group Projects concept page ](https://intranet.alxswe.com/concepts/111)(Don’t forget to read this)
+- [Flowcharts concept page](https://intranet.alxswe.com/concepts/130)
+- [Pair Programming - How To](https://intranet.alxswe.com/concepts/121)
+
 ### man or help:
 
 `printf (3)`
